@@ -1,0 +1,2 @@
+Lien vers la base de donnée :
+http://veekun.com/static/pokedex/downloads/veekun-pokedex.sqlite.gz
